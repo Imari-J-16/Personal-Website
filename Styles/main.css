@@ -1,0 +1,19 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+       
+a:link {
+    color: blue;
+}
+            
+a:visited {
+    color: red;
+    
+}
+            
+a:hover {
+    color:black;
+    
+}
+            
+a:active {
+    color: orange;
+}
